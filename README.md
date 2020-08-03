@@ -1,6 +1,6 @@
 # Welcome to my PortFolio
 
-This is second portfolio first one is hosted on epizy here is the link "http://amtresor.epizy.com".
+This is second portfolio first one is hosted on epizy here is the link "http://iamtresor.epizy.com".
 
 Tresman portfolio is project designed by be in HTML, CSS, JAVASCRIPT
 Included jQuery, popper, ... others run it to see other features
