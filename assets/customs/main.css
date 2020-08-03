@@ -1,0 +1,19 @@
+body {
+    background-image: url(sPu2Cb.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: georgia;
+}
+
+.shadow-box {
+    box-shadow: 0 10px 20px 0px rgba(255, 255, 255, 0.5);
+}
+#html-icon, #css-icon, #js-icon, #php-icon{
+    font-size: 40px;
+    margin-right: 5px;
+}
+.fa-facebook, .fa-pinterest, .fa-linkedin, .fa-instagram {
+    font-size: 30px;
+    text-decoration: none;
+    margin-right: 5px;
+}
